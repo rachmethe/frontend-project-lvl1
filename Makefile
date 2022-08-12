@@ -6,3 +6,6 @@ brain-games: # run brain-games.js
 
 publish: # npm publish --dry-run
 	npm publish --dry-run
+
+lint: # lint current directory
+	npx eslint .
