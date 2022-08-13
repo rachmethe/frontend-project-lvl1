@@ -9,3 +9,6 @@ publish: # npm publish --dry-run
 
 lint: # lint current directory
 	npx eslint .
+
+brain-even: # start game 'brain even'
+	node bin/brain-even.js
