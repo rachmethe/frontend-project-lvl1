@@ -12,3 +12,5 @@ lint: # lint current directory
 
 brain-even: # start game 'brain even'
 	node bin/brain-even.js
+brain-calc: # start game 'brain calc'
+	node bin/brain-calc.js

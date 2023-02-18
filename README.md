@@ -6,3 +6,5 @@
 
 ### myLib documentation
 [![asciicast](https://asciinema.org/a/DPgCTftKKpMda6q5S4bLwaNqF.svg)](https://asciinema.org/a/DPgCTftKKpMda6q5S4bLwaNqF)
+
+[![asciicast](https://asciinema.org/a/XRCKp0v1jYHkzlVj6qMtLBjuH.svg)](https://asciinema.org/a/XRCKp0v1jYHkzlVj6qMtLBjuH)
