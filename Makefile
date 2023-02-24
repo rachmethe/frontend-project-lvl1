@@ -16,3 +16,5 @@ brain-calc: # start game 'brain calc'
 	node bin/brain-calc.js
 brain-gcd: # start game 'brain gcd'
 	node bin/brain-gcd.js
+brain-progression: # start game 'brain gcd'
+	node bin/brain-progression.js
