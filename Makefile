@@ -12,9 +12,15 @@ lint: # lint current directory
 
 brain-even: # start game 'brain even'
 	node bin/brain-even.js
+
 brain-calc: # start game 'brain calc'
 	node bin/brain-calc.js
+
 brain-gcd: # start game 'brain gcd'
 	node bin/brain-gcd.js
-brain-progression: # start game 'brain gcd'
+
+brain-progression: # start game 'brain progression'
 	node bin/brain-progression.js
+
+brain-prime: # start game 'brain prime'
+	node bin/brain-prime.js
